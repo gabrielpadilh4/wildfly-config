@@ -42,6 +42,7 @@
     </extensions>
     <system-properties>
         <property name="test" value="test123"/>
+        <property name="abc" value="hello"/>
     </system-properties>
     <management>
         <audit-log>
