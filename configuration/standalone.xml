@@ -40,6 +40,9 @@
         <extension module="org.wildfly.extension.security.manager"/>
         <extension module="org.wildfly.extension.undertow"/>
     </extensions>
+    <system-properties>
+        <property name="test" value="test123"/>
+    </system-properties>
     <management>
         <audit-log>
             <formatters>
